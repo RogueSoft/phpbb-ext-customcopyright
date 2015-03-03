@@ -4,17 +4,17 @@
 ## Quick Install
 
 You can install this on the latest release of phpBB 3.1 by following the steps below:
-•Create  marttiphpbb/customcode  in the  ext  directory.
-•Download and unpack the repository into  ext/marttiphpbb/customcode  
-•Enable  Custom Code  in the ACP at  Customise -> Manage extensions .
-•You can start editing in the ACP at  Extensions  ->  Custom Code .
+  •Create  marttiphpbb/customcode  in the  ext  directory.
+  •Download and unpack the repository into  ext/marttiphpbb/customcode
+  •Enable  Custom Code  in the ACP at  Customise -> Manage extensions
+  •You can start editing in the ACP at  Extensions  ->  Custom Code .
 
 
 
 ## Uninstall
 
-•Disable  Custom Code  in the ACP at  Customise -> Extension Management -> Extensions .
-•To permanently uninstall, click  Delete Data  (the  /store/customcode  directory will be removed automatically). Optionally delete the  /ext/marttiphpbb/customcode  directory.
+  •Disable  Custom Code  in the ACP at  Customise -> Extension Management -> Extensions .
+  •To permanently uninstall, click  Delete Data  (the  /store/customcode  directory will be removed automatically). Optionally delete the  /ext/marttiphpbb/customcode  directory.
 
 
 

@@ -1,4 +1,4 @@
-# phpBB 3.1 PhpBB Extension - RogueSoft Custom Copyright
+## phpBB 3.1 PhpBB Extension - RogueSoft Custom Copyright
 
 
 ## Quick Install
@@ -26,5 +26,5 @@ You can install this on the latest release of phpBB 3.1 by following the steps b
 
 
 
-License
+## License
 GPL-2.0
